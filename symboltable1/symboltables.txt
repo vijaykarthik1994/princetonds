@@ -1,0 +1,2 @@
+They are mainly used for complier design.
+Implemented as hash table or list.
